@@ -29,3 +29,7 @@ Folder `arduino2_final_concurrent` holds the microcontroller code for controllin
 
 ## Implementation
 For implementation details and demonstration see the project paper.
+## Results
+<img src="download1.png" />
+<img src="download2.png" />
+<img src="download3.png" />
